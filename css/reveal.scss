@@ -390,7 +390,7 @@ $controlsArrowAngleActive: 36deg;
 	// Back arrow style: "faded":
 	// Deemphasize left arrow
 	&[data-controls-back-arrows="faded"] .navigate-left.enabled {
-		opacity: 0.3;
+		//opacity: 0.3;
 
 		&:hover {
 			opacity: 1;
@@ -449,6 +449,7 @@ $controlsArrowAngleActive: 36deg;
 .reveal.no-hover .controls .controls-arrow:hover,
 .reveal.no-hover .controls .controls-arrow:active {
 	@include controlsArrowTransform( $controlsArrowAngle );
+	color: #54e6eb;
 }
 
 // Edge aligned controls layout
