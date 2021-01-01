@@ -1716,8 +1716,6 @@ export default function( revealElement, options ) {
 		let routes = {
 			left: indexh > 0,
 			right: indexh < horizontalSlides.length - 1,
-			up: indexv > 0,
-			down: indexv < verticalSlides.length - 1
 		};
 
 		// Looped presentations can always be navigated as long as
@@ -1726,11 +1724,6 @@ export default function( revealElement, options ) {
 			if( horizontalSlides.length > 1 ) {
 				routes.left = true;
 				routes.right = true;
-			}
-
-			if( verticalSlides.length > 1 ) {
-				routes.up = true;
-				routes.down = true;
 			}
 		}
 
@@ -1745,8 +1738,6 @@ export default function( revealElement, options ) {
 		if( includeFragments === true ) {
 			let fragmentRoutes = fragments.availableRoutes();
 			routes.left = routes.left || fragmentRoutes.prev;
-			routes.up = routes.up || fragmentRoutes.prev;
-			routes.down = routes.down || fragmentRoutes.next;
 			routes.right = routes.right || fragmentRoutes.next;
 		}
 
@@ -2222,21 +2213,13 @@ export default function( revealElement, options ) {
 
 	function navigateUp() {
 
-		// Prioritize hiding fragments
-		if( ( overview.isActive() || fragments.prev() === false ) && availableRoutes().up ) {
-			slide( indexh, indexv - 1 );
-		}
+
 
 	}
 
 	function navigateDown() {
 
-		navigationHistory.hasNavigatedVertically = true;
 
-		// Prioritize revealing fragments
-		if( ( overview.isActive() || fragments.next() === false ) && availableRoutes().down ) {
-			slide( indexh, indexv + 1 );
-		}
 
 	}
 
@@ -2294,9 +2277,6 @@ export default function( revealElement, options ) {
 				routes.down = false;
 			}
 
-			if( routes.down ) {
-				navigateDown();
-			}
 			else if( config.rtl ) {
 				navigateLeft();
 			}

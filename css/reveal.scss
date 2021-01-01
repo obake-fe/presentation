@@ -238,7 +238,7 @@ html.reveal-full-page {
 }
 
 $controlArrowSize: 3.6em;
-$controlArrowSpacing: 1.4em;
+$controlArrowSpacing: 1.5em;
 $controlArrowLength: 2.6em;
 $controlArrowThickness: 0.5em;
 $controlsArrowAngle: 45deg;
@@ -326,7 +326,7 @@ $controlsArrowAngleActive: 36deg;
 
 	.navigate-left {
 		right: $controlArrowSize + $controlArrowSpacing*2;
-		bottom: $controlArrowSpacing + $controlArrowSize/2;
+		bottom: $controlArrowSpacing;
 		transform: translateX( -10px );
 
 		&.highlight {
@@ -336,7 +336,7 @@ $controlsArrowAngleActive: 36deg;
 
 	.navigate-right {
 		right: 0;
-		bottom: $controlArrowSpacing + $controlArrowSize/2;
+		bottom: $controlArrowSpacing;
 		transform: translateX( 10px );
 
 		.controls-arrow {
@@ -345,31 +345,6 @@ $controlsArrowAngleActive: 36deg;
 
 		&.highlight {
 			animation: bounce-right 2s 50 both ease-out;
-		}
-	}
-
-	.navigate-up {
-		right: $controlArrowSpacing + $controlArrowSize/2;
-		bottom: $controlArrowSpacing*2 + $controlArrowSize;
-		transform: translateY( -10px );
-
-		.controls-arrow {
-			transform: rotate( 90deg );
-		}
-	}
-
-	.navigate-down {
-		right: $controlArrowSpacing + $controlArrowSize/2;
-		bottom: -$controlArrowSpacing;
-		padding-bottom: $controlArrowSpacing;
-		transform: translateY( 10px );
-
-		.controls-arrow {
-			transform: rotate( -90deg );
-		}
-
-		&.highlight {
-			animation: bounce-down 2s 50 both ease-out;
 		}
 	}
 
@@ -449,11 +424,6 @@ $controlsArrowAngleActive: 36deg;
 	}
 }
 
-.reveal[data-navigation-mode="linear"].has-horizontal-slides .navigate-up,
-.reveal[data-navigation-mode="linear"].has-horizontal-slides .navigate-down {
-	display: none;
-}
-
 // Adjust the layout when there are no vertical slides
 .reveal[data-navigation-mode="linear"].has-horizontal-slides .navigate-left,
 .reveal:not(.has-vertical-slides) .controls .navigate-left {
@@ -465,16 +435,6 @@ $controlsArrowAngleActive: 36deg;
 .reveal:not(.has-vertical-slides) .controls .navigate-right {
 	bottom: $controlArrowSpacing;
 	right: 0.5em;
-}
-
-// Adjust the layout when there are no horizontal slides
-.reveal:not(.has-horizontal-slides) .controls .navigate-up {
-	right: $controlArrowSpacing;
-	bottom: $controlArrowSpacing + $controlArrowSize;
-}
-.reveal:not(.has-horizontal-slides) .controls .navigate-down {
-	right: $controlArrowSpacing;
-	bottom: 0.5em;
 }
 
 // Invert arrows based on background color
@@ -505,9 +465,7 @@ $controlsArrowAngleActive: 36deg;
 		}
 
 		.navigate-left,
-		.navigate-right,
-		.navigate-up,
-		.navigate-down {
+		.navigate-right {
 			bottom: auto;
 			right: auto;
 		}
@@ -523,18 +481,6 @@ $controlsArrowAngleActive: 36deg;
 			right: $spacing;
 			margin-top: -$controlArrowSize/2;
 		}
-
-		.navigate-up {
-			top: $spacing;
-			left: 50%;
-			margin-left: -$controlArrowSize/2;
-		}
-
-		.navigate-down {
-			bottom: $spacing - $controlArrowSpacing + 0.3em;
-			left: 50%;
-			margin-left: -$controlArrowSize/2;
-		}
 	}
 
 }
@@ -547,7 +493,7 @@ $controlsArrowAngleActive: 36deg;
 .reveal .progress {
 	position: absolute;
 	display: none;
-	height: 3px;
+	height: 10px;
 	width: 100%;
 	bottom: 0;
 	left: 0;
@@ -1123,8 +1069,8 @@ $controlsArrowAngleActive: 36deg;
 		height: 100%;
 
 		background-position: 50% 50%;
-		background-repeat: no-repeat;
-		background-size: cover;
+		background-repeat: repeat;
+		// background-size: cover;
 	}
 
 	.reveal .slide-background.stack {
