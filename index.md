@@ -11,7 +11,10 @@
 
 ## 自己紹介
 
-- name: Daichi Tomonaga
+- 朝長 大地（ともなが だいち）
+- 勝どきフロントエンドグループ
+- 2年ぶりの社内LT
+- 今年の抱負 → 新しいことを10個始める
 
 ---
 
@@ -145,6 +148,8 @@ $ brew bundle --global
 
 ## .Brewfileの一覧パッケージが<br>一気にインストールされる！ <!-- .element: class="text-black" -->
 
+<img class="" src="dist/asset/app.png" width="600px" height="auto" >
+
 ---
 
 <!-- .element: data-background-image="dist/asset/white.png" -->
@@ -173,6 +178,8 @@ $ brew bundle --global
 
 ホームディレクトリに存在する、<br>ドット"."から始まる隠しファイルのこと
 
+<img class="" src="dist/asset/dotfiles.png" width="400px" height="auto" >
+
 ---
 
 <!-- .element: data-background-image="dist/asset/white.png" -->
@@ -192,6 +199,9 @@ https://github.com/smashawk/dotfiles
 
 ```shell
 $ git clone https://github.com/smashawk/dotfiles.git
+
+$ cd dotfiles
+
 $ sh/mk_link.sh
 ```
 
