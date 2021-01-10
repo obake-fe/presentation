@@ -1,11 +1,6 @@
 # おれ流爆速Mac環境<br>構築術
 
-2021/01 朝長大地
-
----
-
-### あけましておめでとうございます！<br>
-### 今年もよろしくお願いいたします！🙇‍♂️
+2021/01/12 朝長大地
 
 ---
 
@@ -31,13 +26,13 @@
 ## 端末セットアップのとき。。
 
 - アプリのインストールが面倒
-- アプリの再設定が面倒
+- 設定が面倒
 
 ---
 
 ## やりたいこと
 
-- 必要アプリを一括でDLする
+- 必要アプリを一括でインストールする
 - 端末設定を同期して再設定の手間をなくす
 
 ---
@@ -64,9 +59,9 @@ Homebrew 2.7.1  ## バージョンが表示されればインストール済み
 
 Macアプリ(パッケージ)をCLIからインストール。
 
-例えばVSCodeの場合
+例えばSlackの場合、
 ```shell
-$ brew install --cask visual-studio-code
+$ brew install --cask slack
 ```
 
 <br>
@@ -87,7 +82,7 @@ $ brew bundle dump --global --force
 
 ## .Brewfile
 
-`brew install`でインストールした<br>パッケージ一覧ファイルが生成されます。
+`brew install`でインストールした<br>パッケージの一覧ファイルが生成されます。
 
 ```shell
 tap "homebrew/bundle"
@@ -146,7 +141,7 @@ $ brew bundle --global
 
 <!-- .element: data-background-image="dist/asset/white.png" -->
 
-## .Brewfileの一覧パッケージが<br>一気にインストールされる！ <!-- .element: class="text-black" -->
+## .Brewfile記載のパッケージが<br>一気にインストールされる！ <!-- .element: class="text-black" -->
 
 <img class="" src="dist/asset/app.png" width="600px" height="auto" >
 
@@ -170,7 +165,7 @@ $ brew bundle --global
 
 <!-- .element: data-background-image="dist/asset/white.png" -->
 
-## dotfilesで<br>端末設定を管理しよう！ <!-- .element: class="text-black" -->
+## dotfilesで<br>端末設定を同期しよう！ <!-- .element: class="text-black" -->
 
 ---
 
@@ -209,8 +204,7 @@ $ sh/mk_link.sh
 
 ## 注意点
 
-- 業務用端末でicloudやdropboxの使用はNG
-- sshなど個人のパスワードファイルの同期もダメ
+- sshなど個人のパスワードファイルの同期はNG
 
 ---
 
@@ -223,3 +217,10 @@ $ sh/mk_link.sh
 ## おわり
 
 ご静聴ありがとうございました 👻
+
+---
+
+## 参考
+
+- [Homebrew Bundle で開発環境の構築をしてみました](https://engineers.weddingpark.co.jp/homebrew-bundle/)
+- [ようこそdotfilesの世界へ - Qiita](https://qiita.com/yutakatay/items/c6c7584d9795799ee164)
