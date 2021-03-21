@@ -17,7 +17,7 @@
 
 ---
 
-<!-- .element: data-background-image="dist/asset/white.png" -->
+<!-- .element: data-background-image="../../dist/asset/white.png" -->
 
 ## Macの環境構築が<br>100倍早くなるコツ <!-- .element: class="text-black" -->
 
@@ -37,7 +37,7 @@
 
 ---
 
-<!-- .element: data-background-image="dist/asset/white.png" -->
+<!-- .element: data-background-image="../../dist/asset/white.png" -->
 
 ## Homebrewでアプリを<br>一括インストールしよう！ <!-- .element: class="text-black" -->
 
@@ -139,15 +139,15 @@ $ brew bundle --global
 
 ---
 
-<!-- .element: data-background-image="dist/asset/white.png" -->
+<!-- .element: data-background-image="../../dist/asset/white.png" -->
 
 ## .Brewfile記載のパッケージが<br>一気にインストールされる！ <!-- .element: class="text-black" -->
 
-<img class="" src="dist/asset/app.png" width="600px" height="auto" >
+<img class="" src="asset/app.png" width="600px" height="auto" >
 
 ---
 
-<!-- .element: data-background-image="dist/asset/white.png" -->
+<!-- .element: data-background-image="../../dist/asset/white.png" -->
 
 ## 50倍くらい速くなりましたね。 <!-- .element: class="text-black" -->
 
@@ -163,7 +163,7 @@ $ brew bundle --global
 
 ---
 
-<!-- .element: data-background-image="dist/asset/white.png" -->
+<!-- .element: data-background-image="../../dist/asset/white.png" -->
 
 ## dotfilesで<br>端末設定を同期しよう！ <!-- .element: class="text-black" -->
 
@@ -173,11 +173,11 @@ $ brew bundle --global
 
 ホームディレクトリに存在する、<br>ドット"."から始まる隠しファイルのこと
 
-<img class="" src="dist/asset/dotfiles.png" width="400px" height="auto" >
+<img class="" src="asset/dotfiles.png" width="400px" height="auto" >
 
 ---
 
-<!-- .element: data-background-image="dist/asset/white.png" -->
+<!-- .element: data-background-image="../../dist/asset/white.png" -->
 
 ## これをGit管理します <!-- .element: class="text-black" -->
 
@@ -208,7 +208,7 @@ $ sh/mk_link.sh
 
 ---
 
-<!-- .element: data-background-image="dist/asset/white.png" -->
+<!-- .element: data-background-image="../../dist/asset/white.png" -->
 
 ## Homebrewとdotfilesで<br>100倍速くなりました！ <!-- .element: class="text-black" -->
 
