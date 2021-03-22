@@ -10,6 +10,13 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal .text-black {
   color: #1c1e20; }
 
+.reveal .top0 {
+  top: 0 !important; }
+
+.reveal .top0 h3 {
+  margin-top: 20px;
+  margin-bottom: 40px; }
+
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
@@ -200,14 +207,24 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal table {
   margin: auto;
   border-collapse: collapse;
-  border-spacing: 0; }
+  border-spacing: 0;
+  width: 100%;
+  font-size: 28px; }
 
 .reveal table th {
   font-weight: bold; }
 
+.reveal table th + th {
+  border-left: 1px solid; }
+
+.reveal table td {
+  text-align: left; }
+
+.reveal table td + td {
+  border-left: 1px solid; }
+
 .reveal table th,
 .reveal table td {
-  text-align: left;
   padding: 0.2em 0.5em 0.2em 0.5em;
   border-bottom: 1px solid; }
 

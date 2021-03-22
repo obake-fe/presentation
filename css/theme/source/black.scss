@@ -44,6 +44,15 @@ $heading4Size: 1.0em;
   color : #1c1e20;
 }
 
+.reveal .top0 {
+  top: 0 !important;
+}
+
+.reveal .top0 h3 {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
 // Theme template ------------------------------
 @import "../template/theme";
 // ---------------------------------------------

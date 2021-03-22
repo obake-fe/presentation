@@ -199,15 +199,27 @@
 	margin: auto;
 	border-collapse: collapse;
 	border-spacing: 0;
+	width: 100%;
+	font-size: 28px;
 }
 
 .reveal table th {
 	font-weight: bold;
 }
 
-.reveal table th,
+.reveal table th + th {
+	border-left: 1px solid;
+}
+
 .reveal table td {
 	text-align: left;
+}
+.reveal table td + td {
+	border-left: 1px solid;
+}
+
+.reveal table th,
+.reveal table td {
 	padding: 0.2em 0.5em 0.2em 0.5em;
 	border-bottom: 1px solid;
 }

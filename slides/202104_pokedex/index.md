@@ -1,4 +1,5 @@
-# 一人React合宿<br>〜ポケモン図鑑v3〜
+# NIJIBOXで成長する100の方法
+## 〜ポケモン図鑑を添えて〜
 
 2021/04/06 朝長大地
 
@@ -8,18 +9,6 @@
 
 - 朝長 大地（ともなが だいち）
 - 勝どきフロントエンドグループ
-- 2年ぶりの社内LT
-- 今年の抱負 → 新しいことを10個始める
-
----
-
-# 今日話すこと
-
----
-
-<!-- .element: data-background-image="../../dist/asset/white.png" -->
-
-## Macの環境構築が<br>100倍早くなるコツ <!-- .element: class="text-black" -->
 
 ---
 
@@ -29,197 +18,122 @@ https://laughing-cray-9d5255.netlify.app/
 
 ---
 
-## やりたいこと
+## というものを作ったんですけど
 
-- 必要アプリを一括でインストールする
-- 端末設定を同期して再設定の手間をなくす
+---
+
+## 本題は別にあります
 
 ---
 
 <!-- .element: data-background-image="../../dist/asset/white.png" -->
 
-## Homebrewでアプリを<br>一括インストールしよう！ <!-- .element: class="text-black" -->
+##  NIJIBOXで成長する100の方法<!-- .element: class="text-black" -->
 
 ---
 
-## [Homebrew](https://brew.sh/index_ja)とは
-
-macOS用のパッケージ管理アプリ。<br>
-みんなインストールしているはず。<br>
-<br>
-```shell
-$ brew -v
-Homebrew 2.7.1  ## バージョンが表示されればインストール済み
-```
+## タイトルは盛っとけって偉い人が言ってました
 
 ---
 
-## brew cask
-
-Macアプリ(パッケージ)をCLIからインストール。
-
-例えばSlackの場合、
-```shell
-$ brew install --cask slack
-```
-
-<br>
-
-[公式](https://formulae.brew.sh/)でインストール可能なアプリを検索可能。
+## ~NIJIBOXで成長する100の方法~
+## NIJIBOXで成長する3つの方法
 
 ---
 
- ## brew bundle
-
-Homebrewでインストールした<br>パッケージを管理する機能
-
-```shell
-$ brew bundle dump --global --force
-```
-
----
-
-## .Brewfile
-
-`brew install`でインストールした<br>パッケージの一覧ファイルが生成されます。
-
-```shell
-tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/cask-versions"
-tap "homebrew/core"
-brew "coreutils"
-brew "ghq"
-brew "mas"
-brew "peco"
-brew "pngquant"
-brew "tig"
-brew "zsh"
-cask "adobe-creative-cloud"
-cask "alfred"
-cask "appcleaner"
-cask "bettertouchtool"
-cask "boostnote"
-cask "discord"
-cask "docker"
-cask "firefox"
-cask "fork"
-cask "forklift"
-cask "franz"
-cask "google-drive-file-stream"
-cask "imageoptim"
-cask "iterm2"
-cask "jetbrains-toolbox"
-cask "kindle"
-cask "skitch"
-cask "slack"
-cask "spotify"
-cask "virtualbox"
-cask "visual-studio-code"
-cask "zeplin"
-cask "zoomus"
-mas "BetterSnapTool", id: 417375580
-mas "LINE", id: 539883307
-mas "Paste", id: 967805235
-mas "Perculia", id: 1462633284
-mas "Keynote", id: 409183694
-mas "Just Focus", id: 1142151959
-mas "ScreenPointer", id: 1368204906
-```
-
----
-
-## セットアップ時
-.Brewfileを新規端末のホームに設置し、<br>以下コマンドを叩く。
-
-```shell
-$ brew bundle --global
-```
+## ここからは個人の主観です
 
 ---
 
 <!-- .element: data-background-image="../../dist/asset/white.png" -->
 
-## .Brewfile記載のパッケージが<br>一気にインストールされる！ <!-- .element: class="text-black" -->
+## ① 機会提供の場を活用する<!-- .element: class="text-black" -->
 
-<img class="" src="asset/app.png" width="600px" height="auto" >
+---
+
+## いろいろあります
+
+- 勝どき新人研修
+- ICS池田さん勉強会
+- スピードハッカソン
+- JS/TS BootCamp
+- LT
+- Qiita、ブログ
+
+---
+
+## 先人の知識・経験が詰まっています
+
+---
+
+## ありがたく全部使いましょう
+
+---
+
+## NARUTO理論
+
+<img class="" src="asset/naruto.png" width="600px" height="auto" >
+
+---
+
+## 分からなかったら、分かってる人に聞きましょう
+
+嫌な顔する人は誰もいません！
 
 ---
 
 <!-- .element: data-background-image="../../dist/asset/white.png" -->
 
-## 50倍くらい速くなりましたね。 <!-- .element: class="text-black" -->
+## ② 今できることをやる<!-- .element: class="text-black" -->
 
 ---
 
-## 補足
+### ポケモン図鑑には、<br>今やってる案件の技術全部いれました
 
-- AppStoresでインストールするアプリは、<br>[mas](https://github.com/mas-cli/mas)というパッケージでインストールしています
-
----
-
-## 残り50倍速くします。
+<img class="" src="asset/pokedex.png" width="600px" height="auto" >
 
 ---
 
 <!-- .element: data-background-image="../../dist/asset/white.png" -->
 
-## dotfilesで<br>端末設定を同期しよう！ <!-- .element: class="text-black" -->
+## ③ アウトプットをする<!-- .element: class="text-black" -->
 
 ---
 
-## dotfilesとは
-
-ホームディレクトリに存在する、<br>ドット"."から始まる隠しファイルのこと
-
-<img class="" src="asset/dotfiles.png" width="400px" height="auto" >
+## ありがたく全部使った後は、<br>今度は自分で提供しましょう
 
 ---
 
-<!-- .element: data-background-image="../../dist/asset/white.png" -->
+## 例えば
 
-## これをGit管理します <!-- .element: class="text-black" -->
-
----
-
-## 朝長のdotfiles
-https://github.com/smashawk/dotfiles
+- 業務で得た知識・知見
+- 自己開発の成果
 
 ---
 
-## 同期のやり方
+## timesとかでも
 
-シェルスクリプトを実行して、<br>シンボリックリンクを貼る
-
-```shell
-$ git clone https://github.com/smashawk/dotfiles.git
-
-$ cd dotfiles
-
-$ sh/mk_link.sh
-```
+今期の目標はtimesをもっと活用するです。。
 
 ---
 
-## 注意点
-
-- sshなど個人のパスワードファイルの同期はNG
+## おまけのおまけ
 
 ---
 
-<!-- .element: data-background-image="../../dist/asset/white.png" -->
-
-## Homebrewとdotfilesで<br>100倍速くなりました！ <!-- .element: class="text-black" -->
+## ポケモン図鑑を作る上で、<br>勉強したことをまとめました
 
 ---
 
-## おわり
+<!-- .element: class="top0" -->
 
-ご静聴ありがとうございました 👻
+### 英語でコミットとか関数名とか
 
----
 
-## 参考
-
-- [Homebrew Bundle で開発環境の構築をしてみました](https://engineers.weddingpark.co.jp/homebrew-bundle/)
-- [ようこそdotfilesの世界へ - Qiita](https://qiita.com/yutakatay/items/c6c7584d9795799ee164)
+|参考にしたもの|コメント|
+|---|---|
+|[awesome-commit-english](https://github.com/azu/awesome-commit-english)|英語メッセージの記事まとめ集。ここから結構探した。|
+|[gitにおけるコミットログ/メッセージ例文集100](https://anond.hatelabo.jp/20160725092419)|例文をアレンジして使いやすい|
+|[関数名によく使われる英単語（動詞）の意味とニュアンス](https://php-archive.net/php/words-in-function-names/)|関数名に困った時は、よくこの中から探す|
+|[プログラミング必須英単語600+](https://progeigo.org/learning/essential-words-600-plus/)|関数名に限らず、あらゆる場面で探せる|
+|[プログラミングでよく使う英単語のまとめ【随時更新】](https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923)|昔のメモから発見した。記事更新も続いてるしかなり使えそう|
