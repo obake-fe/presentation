@@ -125,6 +125,140 @@ https://laughing-cray-9d5255.netlify.app/
 
 ---
 
+## 前提
+
+公式を読むのは絶対です。
+
+---
+
+<!-- .element: class="top0" -->
+
+### React・Redux基礎
+
+公式だけでわりといける<!-- .element: class="top0" -->
+
+|参考にしたもの|コメント|
+|---|---|
+|[りあクト！ - BOOTH](https://oukayuka.booth.pm/)|みんなオススメReact書籍|
+|||
+|||
+|||
+|||
+
+---
+
+<!-- .element: class="top0" -->
+
+### React設計
+
+|参考にしたもの|コメント|
+|---|---|
+|[]()||
+|||
+|||
+|||
+|||
+
+---
+
+<!-- .element: class="top0" -->
+
+### TypeScript
+
+|参考にしたもの|コメント|
+|---|---|
+|[TypeScriptの型入門](https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a)|入門といいつつかなり細かく載ってる。リファレンスとして使うのが良さそう|
+|||
+|||
+|||
+|||
+
+---
+
+<!-- .element: class="top0" -->
+
+### 非同期通信
+
+|参考にしたもの|コメント|
+|---|---|
+|[TypeScriptの型入門](https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a)|入門といいつつかなり細かく載ってる。リファレンスとして使うのが良さそう|
+|||
+|||
+|||
+|||
+
+---
+
+<!-- .element: class="top0" -->
+
+### StoryBook
+
+|参考にしたもの|コメント|
+|---|---|
+|[]()||
+|||
+|||
+|||
+|||
+
+---
+
+<!-- .element: class="top0" -->
+
+### 単体Test(Jest)
+
+|参考にしたもの|コメント|
+|---|---|
+|[]()||
+|||
+|||
+|||
+|||
+
+---
+
+<!-- .element: class="top0" -->
+
+### E2ETest(Cypress)
+
+|参考にしたもの|コメント|
+|---|---|
+|[]()||
+|||
+|||
+|||
+|||
+
+---
+
+<!-- .element: class="top0" -->
+
+### CI/CDツール(Circle Ci)
+
+|参考にしたもの|コメント|
+|---|---|
+|[]()||
+|||
+|||
+|||
+|||
+
+---
+
+<!-- .element: class="top0" -->
+
+### パフォーマンス
+
+|参考にしたもの|コメント|
+|---|---|
+|[]()||
+|||
+|||
+|||
+|||
+
+---
+
 <!-- .element: class="top0" -->
 
 ### 英語でコミットとか関数名とか
@@ -134,6 +268,6 @@ https://laughing-cray-9d5255.netlify.app/
 |---|---|
 |[awesome-commit-english](https://github.com/azu/awesome-commit-english)|英語メッセージの記事まとめ集。ここから結構探した。|
 |[gitにおけるコミットログ/メッセージ例文集100](https://anond.hatelabo.jp/20160725092419)|例文をアレンジして使いやすい|
+|[GitHubで使われている実用英語コメント集](https://qiita.com/shikichee/items/a5f922a3ef3aa58a1839)|頻出単語と使い方が揃ってるので、これだけでも十分使える|
 |[関数名によく使われる英単語（動詞）の意味とニュアンス](https://php-archive.net/php/words-in-function-names/)|関数名に困った時は、よくこの中から探す|
-|[プログラミング必須英単語600+](https://progeigo.org/learning/essential-words-600-plus/)|関数名に限らず、あらゆる場面で探せる|
 |[プログラミングでよく使う英単語のまとめ【随時更新】](https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923)|昔のメモから発見した。記事更新も続いてるしかなり使えそう|
