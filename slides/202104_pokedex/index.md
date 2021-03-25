@@ -28,6 +28,10 @@ https://laughing-cray-9d5255.netlify.app/
 
 ---
 
+# 今日話すこと
+
+---
+
 <!-- .element: data-background-image="../../dist/asset/white.png" -->
 
 ##  NIJIBOXで成長する100の方法<!-- .element: class="text-black" -->
@@ -45,17 +49,17 @@ https://laughing-cray-9d5255.netlify.app/
 
 ---
 
-## ここからは個人の主観です
+## ここからは個人の意見です
 
 ---
 
 <!-- .element: data-background-image="../../dist/asset/white.png" -->
 
-## ① 機会提供の場を活用する<!-- .element: class="text-black" -->
+## ① 成長機会提供の場を活用する<!-- .element: class="text-black" -->
 
 ---
 
-## いろいろあります
+## 社内の取り組み<br>いろいろありますね
 
 - 勝どき新人研修
 - ICS池田さん勉強会
@@ -66,23 +70,18 @@ https://laughing-cray-9d5255.netlify.app/
 
 ---
 
-## 先人の知識・経験が詰まっています
+## 発表資料や記事には、<br>知識・経験が詰まっています
 
 ---
 
-## ありがたく全部使いましょう
+## ありがたく全部活用しましょう
 
 ---
 
 ## NARUTO理論
+自分以外の人の知見を吸収することで、<br>擬似的な分身修行ができる
 
 <img class="" src="asset/naruto.png" width="600px" height="auto" >
-
----
-
-## 分からなかったら、分かってる人に聞きましょう
-
-嫌な顔する人は誰もいません！
 
 ---
 
@@ -110,8 +109,33 @@ https://laughing-cray-9d5255.netlify.app/
 
 ## 例えば
 
-- 業務で得た知識・知見
+- 業務で得た知見・経験
 - 自己開発の成果
+
+---
+
+### 自分の経験したことを<br>自分の言葉で発信することが大事
+
+>あなたの経験はあなたが一次情報源だ。
+> 実際に何かをやったということは思っている以上に貴重なことなのだ。
+
+[情報ではなく経験をアウトプットすること](https://lacolaco.hatenablog.com/entry/2021/03/08/100228)
+
+---
+
+## それぞれ常駐先も違う<br>やってる案件も違う<br>使ってる技術も違う
+
+---
+
+## それ全部<br>NARUTO理論で吸収すれば
+
+<img class="" src="asset/naruto.png" width="600px" height="auto" >
+
+---
+
+## 最強のチームにならない？
+
+<img class="" src="asset/13tai.jpeg" width="600px" height="auto" >
 
 ---
 
@@ -121,11 +145,21 @@ https://laughing-cray-9d5255.netlify.app/
 
 ---
 
-## おまけのおまけ
+<!-- .element: data-background-image="../../dist/asset/white.png" -->
+
+## まとめ<!-- .element: class="text-black" -->
+
+### ① 成長機会提供の場を活用する<!-- .element: class="text-black" -->
+### ② 今できることをやる<!-- .element: class="text-black" -->
+### ③ アウトプットをする<!-- .element: class="text-black" -->
 
 ---
 
-## ポケモン図鑑を作る上で、<br>勉強したことをまとめました
+## おまけ
+
+---
+
+## ポケモン図鑑を作る上で、<br>参考にした記事をまとめました
 
 ---
 
