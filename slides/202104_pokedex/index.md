@@ -176,7 +176,7 @@ https://laughing-cray-9d5255.netlify.app/
 |参考にしたもの|コメント|
 |---|---|
 |[ちょっと高度なJavaScriptの話](https://qiita.com/renesisu727/items/0447fce8a9e00817f1f5)||
-|||
+|[存在と無 NIJIBOXのサルトルと学ぶJavaScriptの存在判定](https://docs.google.com/presentation/d/15JDUDB9_wmooqEeMIEa_THBkvvacxAdLHv4eOtpR2mQ/edit?usp=sharing)|文くんのLTスライド|
 |||
 |||
 |||
@@ -193,22 +193,8 @@ https://laughing-cray-9d5255.netlify.app/
 |---|---|
 |[りあクト！ - BOOTH](https://oukayuka.booth.pm/)|みんなオススメReact書籍|
 |[今から始めるReact入門 〜 React Router](https://qiita.com/TsutomuNakamura/items/34a7339a05bb5fd697f2)||
+|[20210209_CustomHooks](https://drive.google.com/file/d/1CCmGR9wG9jK-LLIcrC14lkTuOjVHqix_/view?usp=sharing)|中野監督のLT記事。|
 |[]()||
-
-
----
-
-<!-- .element: class="top0" -->
-
-### React設計
-
-|参考にしたもの|コメント|
-|---|---|
-|[]()||
-|||
-|||
-|||
-|||
 
 ---
 
@@ -221,7 +207,7 @@ https://laughing-cray-9d5255.netlify.app/
 |[TypeScriptの型入門](https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a)|入門といいつつかなり細かく載ってる。リファレンスとして使うのが良さそう|
 |[【TypeScript】Utility Typesをまとめて理解する](https://qiita.com/k-penguin-sato/items/e2791d7a57e96f6144e5)|これもリファレンスとして使ってる|
 |[敗北者のTypeScript](https://qiita.com/uhyo/items/aae57ba0734e36ee846a)||
-|[]()||
+|[bootcamp_2021_ts_nbx](https://discord.com/channels/811759359939051530/818305146571456513/819375649264631828)|TS研修のスライド。|
 
 
 ---
@@ -232,7 +218,7 @@ https://laughing-cray-9d5255.netlify.app/
 
 |参考にしたもの|コメント|
 |---|---|
-|[]()||
+|[20200831_JavaScriptの非同期処について_菊池初実.pdf](https://drive.google.com/file/d/1CH68zqRbvqxF57mEVS1QViFtoy0Banhj/view?usp=sharing)|菊池さんのLT記事。|
 
 ---
 
@@ -244,7 +230,7 @@ v5とv6で書き方が大幅に変わるので注意<!-- .element: class="top0" 
 
 |参考にしたもの|コメント|
 |---|---|
-|[]()||
+|[20210209_AtomicDesignとStorybookでコンポーネント管理](https://drive.google.com/file/d/1y03wOZV6eC9byout4mYtFV_CXltOxdhT/view?usp=sharing)|菅野くんのLT記事。|
 |[Vue と CSF によるモダンな Storybook 6 のはじめかた](https://zenn.dev/sa2knight/books/aca5d5e021dd10262bb9)|Vueの記事だけど、v6の記事が少ないのでめちゃ助かる。|
 |[Storybook のアップデート](https://mokajima.com/updating-storybook/)|これもv6の記事。|
 
@@ -268,7 +254,7 @@ v5とv6で書き方が大幅に変わるので注意<!-- .element: class="top0" 
 
 |参考にしたもの|コメント|
 |---|---|
-|[]()||
+|[autify を使ってみて.pptx](https://drive.google.com/file/d/1KMf3Lx7gsR47W3r3wKiELtctSwyYWDru/view?usp=sharing)|折田くんのLT記事。|
 |[Cypressで始めるReactのE2Eテスト-導入から実際にテストを書いてみよう！](https://blog.microcms.io/cypress-react-e2e/)|この通りやればテストできる。|
 |[GUIテストツール一覧](https://qiita.com/jun2014/items/8cabbd52830904af49af)|E2Eテストの|
 
@@ -295,7 +281,7 @@ v5とv6で書き方が大幅に変わるので注意<!-- .element: class="top0" 
 
 |参考にしたもの|コメント|
 |---|---|
-|[]()|ICS池田さんの動画|
+|[React最適化〜useMemoやReact.lazyなど、一歩進んだReactの知識〜](https://drive.google.com/drive/u/0/folders/1cyB4C16FWgkCpXkdmJXGbzfogYMG2JLz)|ICS池田さんの動画。|
 |[React製のSPAのパフォーマンスチューニング実例](https://recruit-tech.co.jp/blog/2018/09/19/react_spa_performance_tuning/)|つじけんさんの記事。まずはじめに読もう。|
 |[Before You memo()](https://overreacted.io/before-you-memo/)|Dan氏の記事。メモ化する前にやるべきことあるよ。|
 |[Reactのレンダリングに関する完全ガイド](https://qiita.com/hellokenta/items/6b795501a0a8921bb6b5)|めちゃ分かりやすくて細かい記事。まさに完全ガイド。|
