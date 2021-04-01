@@ -109,6 +109,12 @@ https://laughing-cray-9d5255.netlify.app/
 
 ---
 
+## できることをやってきた
+
+<img class="" src="asset/yattakoto.png" width="800px" height="auto" >
+
+---
+
 ### ポケモン図鑑には、<br>今やってる案件の技術全部いれました
 
 <img class="" src="asset/pokedex.png" width="600px" height="auto" >
