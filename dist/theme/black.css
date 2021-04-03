@@ -10,6 +10,9 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal .text-black {
   color: #1c1e20; }
 
+.reveal .text-gray {
+  color: #666; }
+
 .reveal .top0 {
   top: 0 !important; }
 
@@ -134,7 +137,8 @@ section.has-light-background, section.has-light-background h1, section.has-light
   font-weight: bold; }
 
 .reveal em {
-  font-style: italic; }
+  font-style: italic;
+  font-size: 32px; }
 
 .reveal ol,
 .reveal dl,
@@ -171,7 +175,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal blockquote {
   display: block;
   position: relative;
-  width: 70%;
+  width: 90%;
   margin: 20px auto;
   padding: 5px;
   font-style: italic;

@@ -9,6 +9,8 @@
 
 - 朝長 大地（ともなが だいち）
 - 勝どきフロントエンドグループ
+- 暇さえあればYoutube見てる
+- プロ野球が開幕して楽しい
 
 ---
 
@@ -24,7 +26,7 @@ https://laughing-cray-9d5255.netlify.app/
 
 ## 本題は別にあります
 
-<img class="" src="asset/soerudake.jpg" width="320px" height="auto" >
+<img class="" src="asset/soerudake.png" width="320px" height="auto" >
 
 ---
 
@@ -44,8 +46,8 @@ https://laughing-cray-9d5255.netlify.app/
 
 ---
 
-## ~NIJIBOXで成長する100の方法~
-## NIJIBOXで成長する3つの方法
+## ~NIJIBOXで成長する100の方法~<!-- .element: class="text-gray" -->
+## のうちの3つの方法
 
 ---
 
@@ -83,7 +85,7 @@ https://laughing-cray-9d5255.netlify.app/
 ---
 
 ## NARUTO理論
-自分以外の人の知見を吸収することで、<br>擬似的な分身修行ができる
+自分以外の人の知見を吸収することで<br>擬似的な分身修行ができるという理論
 
 <img class="" src="asset/naruto.png" width="600px" height="auto" >
 
@@ -103,9 +105,9 @@ https://laughing-cray-9d5255.netlify.app/
 
 ---
 
->現在の職務に全力で臨まない人に、投資しようと思わない。
+>現在の職務に全力で臨まない人に、<br>投資しようと思わない。
 
-[情熱プログラマー ソフトウェア開発者の幸せな生き方](https://www.amazon.co.jp/%E6%83%85%E7%86%B1%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC-%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E8%80%85%E3%81%AE%E5%B9%B8%E3%81%9B%E3%81%AA%E7%94%9F%E3%81%8D%E6%96%B9-%EF%BC%A3%EF%BD%88%EF%BD%81%EF%BD%84%EF%BC%A6%EF%BD%8F%EF%BD%97%EF%BD%8C%EF%BD%85%EF%BD%92-ebook/dp/B01IGW5MQ0/ref=sr_1_1?adgrpid=102902611583&dchild=1&gclid=CjwKCAjwu5CDBhB9EiwA0w6sLdK05gpLHgRCycLmNXIriv0WW7Hp0kcjXJ26HGFJ9msNAJjeMqbeEBoCl2QQAvD_BwE&hvadid=448183733445&hvdev=c&hvlocphy=1009250&hvnetw=g&hvqmt=e&hvrand=12865339474210129604&hvtargid=kwd-333776599909&hydadcr=15817_11177326&jp-ad-ap=0&keywords=%E6%83%85%E7%86%B1%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC&qid=1617206347&sr=8-1)
+*[情熱プログラマー ソフトウェア開発者の幸せな生き方](https://www.amazon.co.jp/%E6%83%85%E7%86%B1%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC-%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E8%80%85%E3%81%AE%E5%B9%B8%E3%81%9B%E3%81%AA%E7%94%9F%E3%81%8D%E6%96%B9-%EF%BC%A3%EF%BD%88%EF%BD%81%EF%BD%84%EF%BC%A6%EF%BD%8F%EF%BD%97%EF%BD%8C%EF%BD%85%EF%BD%92-ebook/dp/B01IGW5MQ0/ref=sr_1_1?adgrpid=102902611583&dchild=1&gclid=CjwKCAjwu5CDBhB9EiwA0w6sLdK05gpLHgRCycLmNXIriv0WW7Hp0kcjXJ26HGFJ9msNAJjeMqbeEBoCl2QQAvD_BwE&hvadid=448183733445&hvdev=c&hvlocphy=1009250&hvnetw=g&hvqmt=e&hvrand=12865339474210129604&hvtargid=kwd-333776599909&hydadcr=15817_11177326&jp-ad-ap=0&keywords=%E6%83%85%E7%86%B1%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC&qid=1617206347&sr=8-1)*
 
 ---
 
@@ -133,17 +135,17 @@ https://laughing-cray-9d5255.netlify.app/
 
 ## 例えば
 
-- 業務で得た知見・経験
+- 業務で得た知見・経験・考え方
 - 自己開発の成果
+- 頑張ったこと、苦労したこと
 
----
+[comment]: <> (---)
 
-### 自分の経験したことを<br>自分の言葉で発信することが大事
+[comment]: <> (### 自分の経験したことを<br>自分の言葉で発信することが大事)
 
->あなたの経験はあなたが一次情報源だ。
-> 実際に何かをやったということは思っている以上に貴重なことなのだ。
+[comment]: <> (>あなたの経験はあなたが一次情報源だ。<br>実際に何かをやったということは思っている以上に貴重なことなのだ。)
 
-[情報ではなく経験をアウトプットすること](https://lacolaco.hatenablog.com/entry/2021/03/08/100228)
+[comment]: <> (*[情報ではなく経験をアウトプットすること]&#40;https://lacolaco.hatenablog.com/entry/2021/03/08/100228&#41;*)
 
 ---
 
@@ -157,9 +159,9 @@ https://laughing-cray-9d5255.netlify.app/
 
 ---
 
-## 最強のチームにならない？
+## 最強の組織にならない？
 
-<img class="" src="asset/13tai.jpeg" width="600px" height="auto" >
+<img class="" src="asset/13tai.png" width="800px" height="auto" >
 
 ---
 
@@ -224,13 +226,13 @@ https://laughing-cray-9d5255.netlify.app/
 
 <!-- .element: class="top0" -->
 
-### StoryBook
+### Storybook
 
 v5とv6で書き方が大幅に変わるので注意<!-- .element: class="top0" -->
 
 |参考にしたもの|コメント|
 |---|---|
-|[20210209_AtomicDesignとStorybookでコンポーネント管理](https://drive.google.com/file/d/1y03wOZV6eC9byout4mYtFV_CXltOxdhT/view?usp=sharing)|菅野くんのLT記事。|
+|[20210209_AtomicDesignとStorybookでコンポーネント管理](https://drive.google.com/file/d/1y03wOZV6eC9byout4mYtFV_CXltOxdhT/view?usp=sharing)|菅野くんのLT記事。これを読んで考え方を理解しよう。|
 |[Vue と CSF によるモダンな Storybook 6 のはじめかた](https://zenn.dev/sa2knight/books/aca5d5e021dd10262bb9)|Vueの記事だけど、v6の記事が少ないのでめちゃ助かる。|
 |[Storybook のアップデート](https://mokajima.com/updating-storybook/)|これもv6の記事。|
 |[Storybook でアクセシビリティの自動チェック](https://qiita.com/kalbeekatz/items/2570c0d3cde76dd70e75)|軽部くんの記事。アクセシビリティチェックにはこれを使おう。|
