@@ -57,7 +57,7 @@ https://laughing-cray-9d5255.netlify.app/
 
 <!-- .element: data-background-image="../../dist/asset/white.png" -->
 
-## ① 成長機会提供の場を活用する<!-- .element: class="text-black" -->
+## ① 成長機会の場を活用する<!-- .element: class="text-black" -->
 
 ---
 
@@ -169,13 +169,13 @@ https://laughing-cray-9d5255.netlify.app/
 
 ## まとめ<!-- .element: class="text-black" -->
 
-### ① 成長機会提供の場を活用する<!-- .element: class="text-black" -->
+### ① 成長機会の場を活用する<!-- .element: class="text-black" -->
 ### ② 今できることをやる<!-- .element: class="text-black" -->
 ### ③ アウトプットをする<!-- .element: class="text-black" -->
 
 ---
 
-## おしまい
+### 発表は以上です
 
 ### ご静聴ありがとうございました👻
 
