@@ -85,7 +85,7 @@ https://laughing-cray-9d5255.netlify.app/
 ---
 
 ## NARUTO理論
-自分以外の人の知見を吸収することで<br>擬似的な分身修行ができるという理論
+自分以外の人の知見を吸収することで<br>擬似的な時間短縮分身修行ができるという理論
 
 <img class="" src="asset/naruto.png" width="600px" height="auto" >
 
