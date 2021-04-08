@@ -12,9 +12,11 @@
 
 ## 今日の目標<!-- .element: class="text-black" -->
 
-### ① Fluxを使う理由を理解<!-- .element: class="text-black" -->
-### ② Fluxの具体的なフローを理解<!-- .element: class="text-black" -->
-### ③ Fluxを<!-- .element: class="text-black" -->
+[comment]: <> (### ① Fluxを使う理由を理解<!-- .element: class="text-black" -->)
+
+[comment]: <> (### ② Fluxの具体的なフローを理解<!-- .element: class="text-black" -->)
+
+[comment]: <> (### ③ Fluxを<!-- .element: class="text-black" -->)
 
 ---
 
@@ -26,11 +28,11 @@
 
 ---
 
-## プログラムというのは、同じ処理をする場合でもいろいろな書き方ができます。
+## プログラムというのは、<br>同じ処理でもいろいろな書き方ができます。
 
 ---
 
-## 好き勝手に作ったら、わけが分からなくなりますね
+## 好き勝手に作ったら、<br>わけが分からなくなりますね
 
 ---
 
@@ -82,23 +84,24 @@
 
 ---
 
-## ここにハム太郎Fluxの図をいれる
+## Flux
 
-<img class="" src="asset/hiruma.png" width="320px" height="auto" >
-
----
-
-## 実は今日使うのはRedux
+<img class="" src="asset/flux.png" width="711px" height="auto" >
 
 ---
 
-## ここにハム太郎Reduxの図をいれる
-
-<img class="" src="asset/hiruma.png" width="320px" height="auto" >
+## 今日使うのはFlux + Reducer
 
 ---
 
-## もうイメージできましたね？
+## Flux + Reducer
+
+<img class="" src="asset/flux_reducer.png" width="951px" height="auto" >
+
+---
+
+## イメージできましたか？
+<img class="" src="asset/hamutaro.png" width="320px" height="auto" >
 
 ---
 
