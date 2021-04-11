@@ -4,7 +4,7 @@
 
 ---
 
-# お疲れさまです
+## 今日も一日お疲れさまでした
 
 ---
 
@@ -12,16 +12,16 @@
 
 ## 今日の目標<!-- .element: class="text-black" -->
 
-### スライドの内容をなんとなく理解する<!-- .element: class="text-black" -->
-### todoリストをちょっと作ってみる<!-- .element: class="text-black" -->
+### 1. 講義の内容をなんとなく理解する<!-- .element: class="text-black" -->
+### 2. todoリストをちょっと作ってみる<!-- .element: class="text-black" -->
 
 ---
 
-## さっそく本題に入ります
+## さっそく本題へ
 
 ---
 
-## プログラムというのは、<br>同じ処理でもいろいろな書き方ができます。
+## プログラムというのは、<br>同じ処理でもいろいろな書き方ができる
 
 ---
 
@@ -35,11 +35,7 @@
 
 ---
 
-## 今回はアプリケーションを作る
-
----
-
-## その上で大事なのはViewとLogicの分離
+## SPAアプリケーションを<br>作るときに大事なこと
 
 ---
 
@@ -49,22 +45,18 @@
 
 ---
 
-##  それが一番大事
+## Viewとロジックの分離
+
+<img class="" src="asset/view_logic.png" width="960px" height="auto" >
+<br>↑つじけんさんのスライドから引用
 
 ---
 
-## ここに図をいれる
-
-<img class="" src="asset/hiruma.png" width="320px" height="auto" >
-
----
-
-## いろんな思想
+## いろんな設計思想
 
 - MVC (Model-View-Controller) 
-  MVVM (Model-View-ViewModel) 
-  Flux
-  などなど...
+- MVVM (Model-View-ViewModel)
+- Flux などなど...
 
 ---
 
@@ -72,13 +64,13 @@
 
 ---
 
-## ここにFluxの図をいれる
+## Flux
 
-<img class="" src="asset/hiruma.png" width="320px" height="auto" >
+<img class="" src="asset/flux.png" width="800px" height="auto" >
 
 ---
 
-###  ストーリーをつけると覚えやすいって東大王が言ってました
+###  ストーリーでイメージしてみよう
 
 ---
 
@@ -90,7 +82,7 @@
 
 ## Flux
 
-<img class="" src="asset/flux.png" width="711px" height="auto" >
+<img class="" src="asset/flux_hamu.png" width="840px" height="auto" >
 
 ---
 
@@ -100,7 +92,7 @@
 
 ## Flux + Reducer
 
-<img class="" src="asset/flux_reducers.png" width="951px" height="auto" >
+<img class="" src="asset/flux_reducer_hamu.png" width="760px" height="auto" >
 
 ---
 
