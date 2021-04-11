@@ -12,15 +12,8 @@
 
 ## 今日の目標<!-- .element: class="text-black" -->
 
-[comment]: <> (### ① Fluxを使う理由を理解<!-- .element: class="text-black" -->)
-
-[comment]: <> (### ② Fluxの具体的なフローを理解<!-- .element: class="text-black" -->)
-
-[comment]: <> (### ③ Fluxを<!-- .element: class="text-black" -->)
-
----
-
-# Fluxだけでも覚えて帰ってください
+### スライドの内容をなんとなく理解する<!-- .element: class="text-black" -->
+### todoリストをちょっと作ってみる<!-- .element: class="text-black" -->
 
 ---
 
@@ -32,19 +25,21 @@
 
 ---
 
-## 好き勝手に作ったら、<br>わけが分からなくなりますね
+## 好き勝手に作ったら、<br>ぐちゃぐちゃになっちゃう
 
 ---
 
 ## 書き方のルールが必要
 
----
-
-## それがMVCとか、<br>Fluxとかいうやつ
+[comment]: <> (好き勝手に作ったらぐちゃぐちゃになる→だから思想が大事→今回はアプリケーションを作る→その上で大事なのはViewとLogicの分離→MVCとか具体の話)
 
 ---
 
-## いろんなルールに共通していることがある
+## 今回はアプリケーションを作る
+
+---
+
+## その上で大事なのはViewとLogicの分離
 
 ---
 
@@ -64,6 +59,15 @@
 
 ---
 
+## いろんな思想
+
+- MVC (Model-View-Controller) 
+  MVVM (Model-View-ViewModel) 
+  Flux
+  などなど...
+
+---
+
 ## 今日はFluxを使います
 
 ---
@@ -74,7 +78,7 @@
 
 ---
 
-##  ストーリーをつけると覚えやすいって東大王が言ってました
+###  ストーリーをつけると覚えやすいって東大王が言ってました
 
 ---
 
@@ -96,7 +100,7 @@
 
 ## Flux + Reducer
 
-<img class="" src="asset/flux_reducer.png" width="951px" height="auto" >
+<img class="" src="asset/flux_reducers.png" width="951px" height="auto" >
 
 ---
 
