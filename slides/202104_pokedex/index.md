@@ -26,7 +26,7 @@ https://laughing-cray-9d5255.netlify.app/
 
 ## 本題は別にあります
 
-<img class="" src="asset/soerudake.png" width="320px" height="auto" >
+<img class="" src="../../dist/asset/202104_pokedex/soerudake.png" width="320px" height="auto" >
 
 ---
 
@@ -42,7 +42,7 @@ https://laughing-cray-9d5255.netlify.app/
 
 ## タイトルは盛っとけって偉い人が言ってました
 
-<img class="" src="asset/hiruma.png" width="320px" height="auto" >
+<img class="" src="../../dist/asset/202104_pokedex/hiruma.png" width="320px" height="auto" >
 
 ---
 
@@ -87,7 +87,7 @@ https://laughing-cray-9d5255.netlify.app/
 ## NARUTO理論
 自分以外の人の知見を吸収することで<br>擬似的な時間短縮分身修行ができるという理論
 
-<img class="" src="asset/naruto.png" width="600px" height="auto" >
+<img class="" src="../../dist/asset/202104_pokedex/naruto.png" width="600px" height="auto" >
 
 ---
 
@@ -113,13 +113,13 @@ https://laughing-cray-9d5255.netlify.app/
 
 ## できることをやってきた
 
-<img class="" src="asset/yattakoto.png" width="800px" height="auto" >
+<img class="" src="../../dist/asset/202104_pokedex/yattakoto.png" width="800px" height="auto" >
 
 ---
 
 ### ポケモン図鑑には、<br>今やってる案件の技術全部いれました
 
-<img class="" src="asset/pokedex.png" width="600px" height="auto" >
+<img class="" src="../../dist/asset/202104_pokedex/pokedex.png" width="600px" height="auto" >
 
 ---
 
@@ -155,13 +155,13 @@ https://laughing-cray-9d5255.netlify.app/
 
 ## それ全部<br>NARUTO理論で吸収すれば
 
-<img class="" src="asset/naruto.png" width="600px" height="auto" >
+<img class="" src="../../dist/asset/202104_pokedex/naruto.png" width="600px" height="auto" >
 
 ---
 
 ## 最強の組織にならない？
 
-<img class="" src="asset/13tai.png" width="800px" height="auto" >
+<img class="" src="../../dist/asset/202104_pokedex/13tai.png" width="800px" height="auto" >
 
 ---
 
