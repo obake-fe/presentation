@@ -1,10 +1,12 @@
 # Todoリスト補講
 
-2021/04/xx 朝長大地
+2021/04 朝長大地
 
 ---
 
-## 今日も一日お疲れさまでした
+### お仕事お疲れさまでした🍵
+
+### もうちょっとだけ頑張りましょう！
 
 ---
 
@@ -25,17 +27,17 @@
 
 ---
 
-## 好き勝手に作ったら、<br>ぐちゃぐちゃになっちゃう
+## 好き勝手に作ったら<br>ぐちゃぐちゃになりがち
 
 ---
 
-## 書き方のルールが必要
+## だから設計思想が生まれた
 
 [comment]: <> (好き勝手に作ったらぐちゃぐちゃになる→だから思想が大事→今回はアプリケーションを作る→その上で大事なのはViewとLogicの分離→MVCとか具体の話)
 
 ---
 
-## SPAアプリケーションを<br>作るときに大事なこと
+## アプリケーションを<br>作るときに大事なこと
 
 ---
 
@@ -47,7 +49,7 @@
 
 ## Viewとロジックの分離
 
-<img class="" src="asset/view_logic.png" width="960px" height="auto" >
+<img class="" src="../../dist/asset/202104_flux/view_logic.png" width="960px" height="auto" >
 <br>↑つじけんさんのスライドから引用
 
 ---
@@ -66,7 +68,7 @@
 
 ## Flux
 
-<img class="" src="asset/flux.png" width="800px" height="auto" >
+<img class="" src="../../dist/asset/202104_flux/flux.png" width="800px" height="auto" >
 
 ---
 
@@ -76,13 +78,13 @@
 
 ## ハム太郎で理解するFlux
 
-<img class="" src="asset/hamutaro.png" width="320px" height="auto" >
+<img class="" src="../../dist/asset/202104_flux/hamutaro.png" width="320px" height="auto" >
 
 ---
 
 ## Flux
 
-<img class="" src="asset/flux_hamu.png" width="840px" height="auto" >
+<img class="" src="../../dist/asset/202104_flux/flux_hamu.png" width="840px" height="auto" >
 
 ---
 
@@ -92,12 +94,12 @@
 
 ## Flux + Reducer
 
-<img class="" src="asset/flux_reducer_hamu.png" width="760px" height="auto" >
+<img class="" src="../../dist/asset/202104_flux/flux_reducer_hamu.png" width="760px" height="auto" >
 
 ---
 
 ## イメージできましたか？
-<img class="" src="asset/hamutaro.png" width="320px" height="auto" >
+<img class="" src="../../dist/asset/202104_flux/hamutaro.png" width="320px" height="auto" >
 
 ---
 
