@@ -143,7 +143,7 @@ $ brew bundle --global
 
 ## .Brewfile記載のパッケージが<br>一気にインストールされる！ <!-- .element: class="text-black" -->
 
-<img class="" src="asset/app.png" width="600px" height="auto" >
+<img class="" src="../../dist/asset/202101_macEnv/app.png" width="600px" height="auto" >
 
 ---
 
@@ -173,7 +173,7 @@ $ brew bundle --global
 
 ホームディレクトリに存在する、<br>ドット"."から始まる隠しファイルのこと
 
-<img class="" src="asset/dotfiles.png" width="400px" height="auto" >
+<img class="" src="../../dist/asset/202101_macEnv/dotfiles.png" width="400px" height="auto" >
 
 ---
 
