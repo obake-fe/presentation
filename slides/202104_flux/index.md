@@ -37,6 +37,14 @@
 
 ---
 
+## いろんな設計思想
+
+- MVC (Model-View-Controller)
+- MVVM (Model-View-ViewModel)
+- Flux などなど...
+
+---
+
 ## アプリケーションを<br>作るときに大事なこと
 
 ---
