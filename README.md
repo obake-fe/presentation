@@ -9,7 +9,7 @@
 
 ## Get start
 ```shell
-$ yarn unstall
+$ yarn install
 $ yarn start
 ```
 

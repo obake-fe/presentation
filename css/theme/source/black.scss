@@ -40,8 +40,30 @@ $heading4Size: 1.0em;
 // Change text colors against light slide backgrounds
 @include light-bg-text-color(#222);
 
+.reveal .mt24 {
+  margin-top: 24px;
+}
+
+.reveal .fw {
+  font-weight: bold;
+}
+
 .reveal .text-black {
   color : #1c1e20;
+}
+
+.reveal .none-dot {
+  list-style: none;
+  line-height: 1.4;
+}
+
+.reveal .bottom-heading {
+  font-weight: bold;
+  list-style: none;
+}
+
+li {
+  line-height: 1.6;
 }
 
 .reveal .text-gray {
