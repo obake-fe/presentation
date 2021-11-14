@@ -40,7 +40,7 @@
 <!-- .element: data-background-image="../../dist/asset/white.png" -->
 
 # ビジネスに貢献するための業務スタンス<!-- .element: class="text-black" -->
-## 〜仕事の7つのコツ〜<!-- .element: class="text-black" -->
+## 〜仕事の4つのコツ〜<!-- .element: class="text-black" -->
 
 ---
 
@@ -55,11 +55,8 @@
 
 - ①タスクの本質を理解する<!-- .element: class="text-black none-dot" -->
 - ②タスクの優先度を理解する<!-- .element: class="text-black none-dot" -->
-- ③誰がいつやるかを決める<!-- .element: class="text-black none-dot" -->
-- ④相手のやってほしいことを予測する<!-- .element: class="text-black none-dot" -->
-- ⑤答えやすい形式の質問をする<!-- .element: class="text-black none-dot" -->
-- ⑥タスクを溜め込まない<!-- .element: class="text-black none-dot" -->
-- ⑦自分に求められていることを知る<!-- .element: class="text-black none-dot" -->
+- ③相手のやってほしいことを予測する<!-- .element: class="text-black none-dot" -->
+- ④自分に求められていることを知る<!-- .element: class="text-black none-dot" -->
 
 ---
 
@@ -122,23 +119,7 @@
 
 <!-- .element: data-background-image="../../dist/asset/white.png" -->
 
-## ③誰がいつやるかを決める<!-- .element: class="text-black" -->
-
----
-
-### 宙に浮いたタスクを作らない
-- 特にMTGではそれを意識
-  - 誰がボールを持っているか
-  - いつまでに対応するか
-  - ログ（議事録）を残しておくと良き
-- 自分のタスク内でも同様
-  - タスク優先度を意識して、いつまでにやるか決めておく
-
----
-
-<!-- .element: data-background-image="../../dist/asset/white.png" -->
-
-## ④相手のやってほしいことを<br>予測する<!-- .element: class="text-black" -->
+## ③相手のやってほしいことを<br>予測する<!-- .element: class="text-black" -->
 
 ---
 
@@ -163,13 +144,8 @@
 
 ---
 
-<!-- .element: data-background-image="../../dist/asset/white.png" -->
-
-## ⑤答えやすい形式の質問をする<!-- .element: class="text-black" -->
-
----
-
 ### やりとりをスムーズにするために
+- 答えやすい形式の質問をしよう
 - 基本はyes,noで答えられる質問（クローズドクエスチョン）が良い
     - 特にslack上でやり取りする場合
 - ❌ 「どうすればよいですか？」<!-- .element: class="none-dot mt24" -->
@@ -183,22 +159,7 @@
 
 <!-- .element: data-background-image="../../dist/asset/white.png" -->
 
-## ⑥タスクを溜め込まない<!-- .element: class="text-black" -->
-
----
-
-### ボールを打ち返そう
-- タスクを抱え続けている状態は望ましくない
-  - パンクしちゃう
-- slackの返事とかも
-  - 分からないなら分からないと打ち返す
-- 打ち返し方も前述④⑤を意識
-
----
-
-<!-- .element: data-background-image="../../dist/asset/white.png" -->
-
-## ⑦自分に求められていることを知る<!-- .element: class="text-black" -->
+## ④自分に求められていることを知る<!-- .element: class="text-black" -->
 
 ---
 
@@ -216,11 +177,8 @@
 
 - ①タスクの本質を理解する<!-- .element: class="text-black" -->
 - ②タスクの優先度を理解する<!-- .element: class="text-black" -->
-- ③誰がいつやるかを決める<!-- .element: class="text-black" -->
-- ④相手のやってほしいことを予測する<!-- .element: class="text-black" -->
-- ⑤答えやすい形式の質問をする<!-- .element: class="text-black" -->
-- ⑥タスクを溜め込まない<!-- .element: class="text-black" -->
-- ⑦自分に求められていることを知る<!-- .element: class="text-black" -->
+- ③相手のやってほしいことを予測する<!-- .element: class="text-black" -->
+- ④自分に求められていることを知る<!-- .element: class="text-black" -->
 
 ---
 
@@ -230,7 +188,5 @@
 
 ## 参考
 - [最初から強いやつの特徴  | Qiita](https://qiita.com/zamis/items/703bfcea027a70c1cec6)
-- [デキるビジネスパーソンは質問方法を使い分ける](https://bizdrive.ntt-east.co.jp/articles/dr00002-110.html)
-- [ボールは渡して終わりではない | Note](https://note.com/sudatakashi/n/neb2ce051488e)
 - [情熱プログラマー](https://www.amazon.co.jp/dp/4274067939)
 - [アジャイルサムライ](https://www.amazon.co.jp/dp/4274068560)
