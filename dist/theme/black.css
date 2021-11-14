@@ -10,6 +10,9 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal .mt24 {
   margin-top: 24px; }
 
+.reveal .ls {
+  letter-spacing: -7px; }
+
 .reveal .fw {
   font-weight: bold; }
 

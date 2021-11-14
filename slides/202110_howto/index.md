@@ -25,11 +25,7 @@
 
 ---
 
-## その技術が他者に対して<br>意味がないものであれば、<br>社会的には価値がない
-
----
-
-## エンジニアである以上、<br>ビジネスに貢献することで、<br>その技術力に価値が生まれる
+## エンジニアとして働いている以上、<br>技術力を持ってビジネスに<br>貢献する必要がある<!-- .element: class="ls" -->
 
 ---
 
@@ -51,7 +47,7 @@
 
 <!-- .element: data-background-image="../../dist/asset/white.png" -->
 
-## 仕事の7つのコツ<!-- .element: class="text-black" -->
+## 仕事の4つのコツ<!-- .element: class="text-black" -->
 
 - ①タスクの本質を理解する<!-- .element: class="text-black none-dot" -->
 - ②タスクの優先度を理解する<!-- .element: class="text-black none-dot" -->
@@ -102,7 +98,7 @@
 - そのために、まず案件の全体像を把握しよう
   - どんな開発工程があるのか
   - どんなルールがあるのか
-  - 関係者（ご近所さん）は誰なのか
+  - 関係者は誰なのか
 
 ---
 
@@ -123,24 +119,14 @@
 
 ---
 
-### 相手の気持ちを察する
-- 相手の知りたいことを予測する
-  - 顧客が知りたいことは、結局のところ次の2つ
-    - 「実現可能かどうか」
-    - 「予算（工数）はいくらか」
-  - 結論から話すのが良き
-
----
-
-### 相手のやってほしいことをやる
+### 先読みのスキルを身に付けよう
 >あまり指図しなくてもプロジェクトを正しい方向にもっていける人が高く評価される
 
 *[情熱プログラマー ソフトウェア開発者の幸せな生き方](https://www.amazon.co.jp/%E6%83%85%E7%86%B1%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC-%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E8%80%85%E3%81%AE%E5%B9%B8%E3%81%9B%E3%81%AA%E7%94%9F%E3%81%8D%E6%96%B9-%EF%BC%A3%EF%BD%88%EF%BD%81%EF%BD%84%EF%BC%A6%EF%BD%8F%EF%BD%97%EF%BD%8C%EF%BD%85%EF%BD%92-ebook/dp/B01IGW5MQ0/ref=sr_1_1?adgrpid=102902611583&dchild=1&gclid=CjwKCAjwu5CDBhB9EiwA0w6sLdK05gpLHgRCycLmNXIriv0WW7Hp0kcjXJ26HGFJ9msNAJjeMqbeEBoCl2QQAvD_BwE&hvadid=448183733445&hvdev=c&hvlocphy=1009250&hvnetw=g&hvqmt=e&hvrand=12865339474210129604&hvtargid=kwd-333776599909&hydadcr=15817_11177326&jp-ad-ap=0&keywords=%E6%83%85%E7%86%B1%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC&qid=1617206347&sr=8-1)より引用*
 
 <div style="margin: 48px 0"></div>
 
-- 先読みのスキルを身に付けよう
-  - 経験から予測し、次のアクションを考える
+- 案件の全体像や過去の経験から次の展開を予測し、常に準備をしておく
 
 ---
 
@@ -164,10 +150,10 @@
 ---
 
 ### アサインされた意味があるはず
-- チームの中での自分の役割を考えて動くべし
 - 分からなかったら上司に聞こう
-- やるべきことを予測して動けるようになる（④先読み）
-- プロジェクトのKPI、KGIを知った上で考えられるとなお良し
+  - 求められていることを理解して実行するべし
+    - NBXのビジネスに最短距離で貢献できる
+- その上で職域を超えたことができれば最高
 
 ---
 
@@ -175,14 +161,14 @@
 
 ## まとめ<!-- .element: class="text-black" -->
 
-- ①タスクの本質を理解する<!-- .element: class="text-black" -->
-- ②タスクの優先度を理解する<!-- .element: class="text-black" -->
-- ③相手のやってほしいことを予測する<!-- .element: class="text-black" -->
-- ④自分に求められていることを知る<!-- .element: class="text-black" -->
+- ①タスクの本質を理解する<!-- .element: class="text-black none-dot" -->
+- ②タスクの優先度を理解する<!-- .element: class="text-black none-dot" -->
+- ③相手のやってほしいことを予測する<!-- .element: class="text-black none-dot" -->
+- ④自分に求められていることを知る<!-- .element: class="text-black none-dot" -->
 
 ---
 
-# 一緒に頑張って<br>いきましょう
+# 一緒に頑張って<br>いきましょう！
 
 ---
 
