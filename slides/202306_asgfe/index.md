@@ -1,6 +1,7 @@
-# SP版サロンボード<br>プロジェクトに参画して<br>1ヶ月が経ちました
+# SP版サロンボード<br>プロジェクトに参画して<br>1ヶ月が経ちました<!-- .element: style="font-size: 2em" -->
 
-2023/06/09 朝長 大地
+
+2023/06/09&nbsp;&nbsp;&nbsp;&nbsp;朝長 大地
 
 ---
 
@@ -8,10 +9,10 @@
 
 ## 今日話すこと<!-- .element: class="text-black" -->
 
-- ①自己紹介<!-- .element: class="text-black none-dot" -->
-- ②SPSBにジョインして苦労していること<!-- .element: class="text-black none-dot" -->
-- ③SPSBにジョインする前にやってて良かったこと<!-- .element: class="text-black none-dot" -->
-- ④参画して1ヶ月で感じたこと<!-- .element: class="text-black none-dot" -->
+- ①自己紹介<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
+- ②SPSBにジョインして苦労していること<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
+- ③SPSBにジョインする前にやってて良かったこと<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
+- ④参画して1ヶ月で感じたこと<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
 
 ---
 
@@ -25,22 +26,22 @@
 ---
 
 ## 過去の案件
-- 社内案件（1年半）
+- 社内でいろいろ（1年半）
   - HTML、SCSS、jQuery、Gulp
 - リクナビイベント（1年半）
   - HTML、JSP、CSS、jQuery
 - knowbe（2年半）
-  - React、TypeScript、Redux
+  - React、TypeScript、Redux、MUI
 
 ---
 
 ## SPSB参画前のスキルセット
 - Next.js
-  - 公式チュートリアルやったくらい
+  - 公式チュートリアルをやりました
 - GraphQL
-  - @Quramyさんの研修をやったくらい
-- 経験なし
-  - Relay、Yoga、Zod、MSW ...etc
+  - @Quramyさんの研修をやりました
+- Relay、Yoga、Zod、MSW ...etc
+  - 経験なし
 
 ---
 
@@ -48,10 +49,10 @@
 
 [//]: # (## 今日話すこと<!-- .element: class="text-black" -->)
 
-- ①自己紹介<!-- .element: class="text-black none-dot" -->
-- ②SPSBにジョインして苦労していること<!-- .element: class="text-blue none-dot fw" -->
-- ③SPSBにジョインする前にやってて良かったこと<!-- .element: class="text-black none-dot" -->
-- ④参画して1ヶ月で感じたこと<!-- .element: class="text-black none-dot" -->
+- ①自己紹介<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
+- ②SPSBにジョインして苦労していること<!-- .element: class="text-blue none-dot fw" style="font-size: 0.98em" -->
+- ③SPSBにジョインする前にやってて良かったこと<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
+- ④参画して1ヶ月で感じたこと<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
 
 ---
 
@@ -59,60 +60,80 @@
 - Reactと同じではない
 - レンダリング場所という概念
   - SSRとCSRのどちらなのかを考える必要がある
-- SBSPではgIPを使っているので特にそう
+- SPSBではgIPを使っているので特にそう
+  - Relayのキャッシュを有効利用するため
+
+---
+
+## Relayキャッシュがわからない
+- ReduxのStoreみたいなもの？
+- Environmentという概念
+- 利用する仕組みはすでに実装されている
+  - 普通の実装では触らない部分
 
 ---
 
 ## エラー監視・解析がわからない
 - Sentry、DataDog、Redash、Google Analytics
 - 実践でしか経験値をつみにくい
-- サービス仕様を理解していないと、エラーの原因特定までいかない
-  - APIがどのタイミングで叩かれるか
-    - SSR？ CSR？
+- 仕様の理解やドメイン知識がないと難しい
+- SSR/CSRどっちのエラー？
 
 ---
 
-## 最新のCSSがわからない
-- どんどんアップデートされていた
+## ライブラリの仕組みがわからない<!-- .element: style="font-size: 1.5em" -->
+- MSW
+  - Service Worker？
+- dataloader
+  - 遅延読み込みでn+1問題の解消？
+- Zodios
+  - helper関数にどんな種類がある？
+
+---
+
+## 新しめのCSSがわからない
+どんどんアップデートされていた
 
 ```css
+/* 論理的プロパティ */
+.hoge {
+  margin-inline: auto;   /* 左右センタリング */
+}
 
+/* gapを使ったmargin調整 */
+.fuga {
+  display: flex;
+  gap: 30px 20px;
+}
 ```
 
 ---
 
-## 使用ライブラリの仕組みがわからない
-- msw
-  - Service Worker？
-- dataloader
-  - 遅延読み込みでn+1問題の解消？
-
----
-
 <!-- .element: data-background-image="../../dist/asset/white.png" class="filter" -->
 
 [//]: # (## 今日話すこと<!-- .element: class="text-black" -->)
 
-- ①自己紹介<!-- .element: class="text-black none-dot" -->
-- ②SPSBにジョインして苦労していること<!-- .element: class="text-black none-dot" -->
-- ③SPSBにジョインする前にやってて良かったこと<!-- .element: class="text-blue none-dot fw" -->
-- ④参画して1ヶ月で感じたこと<!-- .element: class="text-black none-dot" -->
+- ①自己紹介<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
+- ②SPSBにジョインして苦労していること<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
+- ③SPSBにジョインする前にやってて良かったこと<!-- .element: class="text-blue none-dot fw" style="font-size: 0.98em" -->
+- ④参画して1ヶ月で感じたこと<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
 
 ---
 
-## GraphQLを学習していた
+## GraphQLの事前予習
 - OREILLYの『初めてのGraphQL』を読んで画像投稿アプリを作ってみた
 - 本ではApolloを使っていたが、Relayにも十分応用できる内容だった
-- 実践に近いところまで事前予習していた
+- 実践に近いところまで見ていた
   - フラグメントコロケーション
 
 ---
 
-## アジャイルについて学習していた
-- SPSBではアジャイルに近いフローを採用している
-- 今までの案件はウォーターフローだったが、『アジャイルサムライ』を読んでいたおかげでフローに戸惑うことはなかった
-  - プランニング
-  - 価値ある成果を届けるおさわり回
+## アジャイルの事前予習
+- SPSBではアジャイルに近いフローを採用している<!-- .element: style="font-size: 0.98em" -->
+- 今までの案件はウォーターフロー
+  - 『アジャイルサムライ』を読んでいたおかげでフローに戸惑うことはなかった<!-- .element: style="font-size: 0.98em" -->
+    - プランニング<!-- .element: style="font-size: 0.98em" -->
+    - 価値ある成果を届けるおさわり回<!-- .element: style="font-size: 0.98em" -->
 
 ---
 
@@ -120,49 +141,44 @@
 
 [//]: # (## 今日話すこと<!-- .element: class="text-black" -->)
 
-- ①自己紹介<!-- .element: class="text-black none-dot" -->
-- ②SPSBにジョインして苦労していること<!-- .element: class="text-black none-dot" -->
-- ③SPSBにジョインする前にやってて良かったこと<!-- .element: class="text-black none-dot" -->
-- ④参画して1ヶ月で感じたこと<!-- .element: class="text-blue none-dot fw" -->
+- ①自己紹介<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
+- ②SPSBにジョインして苦労していること<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
+- ③SPSBにジョインする前にやってて良かったこと<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
+- ④参画して1ヶ月で感じたこと<!-- .element: class="text-blue none-dot fw" style="font-size: 0.98em" -->
 
 ---
 
 ## 途中参画の難しさ
 - 途中参画だと既存のルールや仕様がある
   - そこの理解がないと色んなことが難しい
-  - PRレビュー、エラー解析、
-
-- 予定、予約などのドメイン概念
-
-- 技術的なところよりも、プロダクト知識のほうを早く理解すべき！
+  - PRレビュー、エラー監視、MTG
+- 「予定」「予約」などのドメイン概念
 
 ---
 
-## チームメンバーからのフォローのありがたさ
+## フォローのありがたさ
 
 - なんでも質問できる環境
-  - ハドル、スレッドなんでもござれ
+  - ハドル、スレッド
 - コンフルの資料も充実
-- コードにもコメントが書かれているので、理解しやすい
+- コードにもコメントが書かれているので、理解の助けになる
 
 ---
 
-## 反省
+## 教訓とこれから
 
-- プロダクトの仕様、その背景を理解する
+- サービスの仕様とその背景をまず理解するべし
   - 主要なページの作り、機能を読み解いていく
-  - 最初にするべきだったという反省
-- 技術的な理解を進める
-  - Next.js
-    - Rの新卒研修をやりました
-  - エラー監視
-    - 仕込み側のコードの理解
+
+- 技術的な理解を進めるべし
+  - Rの新卒研修をやりました（Next.js）
+  - 同様のアーキテクチャで何か作ってみる予定
 
 ---
 
-## これから
+## 最後に
 
-- 今後成長した発表をできたらと思います
+- 今後成長した発表をできたらと思います！
 - 技術的な話はこの後に先輩たちがやってくれます！
 
 ---
