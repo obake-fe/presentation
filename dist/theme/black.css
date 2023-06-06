@@ -20,7 +20,10 @@ section.has-light-background, section.has-light-background h1, section.has-light
   color: #1c1e20; }
 
 .reveal .text-blue {
-  color: #1c1e20; }
+  color: #0000CD; }
+
+.reveal .filter {
+  filter: brightness(0.7); }
 
 .reveal .none-dot {
   list-style: none;
