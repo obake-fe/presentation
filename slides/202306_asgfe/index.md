@@ -12,7 +12,7 @@
 - ①自己紹介<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
 - ②SPSBにジョインして苦労していること<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
 - ③SPSBにジョインする前にやってて良かったこと<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
-- ④参画して1ヶ月で感じたこと<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
+- ④参画して1ヶ月で感じること<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
 
 ---
 
@@ -52,7 +52,7 @@
 - ①自己紹介<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
 - ②SPSBにジョインして苦労していること<!-- .element: class="text-blue none-dot fw" style="font-size: 0.98em" -->
 - ③SPSBにジョインする前にやってて良かったこと<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
-- ④参画して1ヶ月で感じたこと<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
+- ④参画して1ヶ月で感じること<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
 
 ---
 
@@ -77,7 +77,8 @@
 - Sentry、DataDog、Redash、Google Analytics
 - 実践でしか経験値をつみにくい
 - 仕様の理解やドメイン知識がないと難しい
-- SSR/CSRどっちのエラー？
+
+[//]: # (- SSR/CSRどっちのエラー？)
 
 ---
 
@@ -87,7 +88,7 @@
 - dataloader
   - 遅延読み込みでn+1問題の解消？
 - Zodios
-  - helper関数にどんな種類がある？
+  - helper関数？
 
 ---
 
@@ -116,13 +117,13 @@
 - ①自己紹介<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
 - ②SPSBにジョインして苦労していること<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
 - ③SPSBにジョインする前にやってて良かったこと<!-- .element: class="text-blue none-dot fw" style="font-size: 0.98em" -->
-- ④参画して1ヶ月で感じたこと<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
+- ④参画して1ヶ月で感じること<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
 
 ---
 
 ## GraphQLの事前予習
 - OREILLYの『初めてのGraphQL』を読んで画像投稿アプリを作ってみた
-- 本ではApolloを使っていたが、Relayにも十分応用できる内容だった
+- 本ではApolloを使っていたが、Relay/Yogaにも十分応用できる内容だった
 - 実践に近いところまで見ていた
   - フラグメントコロケーション
 
@@ -130,10 +131,9 @@
 
 ## アジャイルの事前予習
 - SPSBではアジャイルに近いフローを採用している<!-- .element: style="font-size: 0.98em" -->
-- 今までの案件はウォーターフロー
-  - 『アジャイルサムライ』を読んでいたおかげでフローに戸惑うことはなかった<!-- .element: style="font-size: 0.98em" -->
-    - プランニング<!-- .element: style="font-size: 0.98em" -->
-    - 価値ある成果を届けるおさわり回<!-- .element: style="font-size: 0.98em" -->
+- 書籍を読んでいたことが役立った
+  - 『アジャイルサムライ』
+  - 『エンジニア組織論への招待』<!-- .element: style="font-size: 0.98em" -->
 
 ---
 
@@ -144,7 +144,7 @@
 - ①自己紹介<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
 - ②SPSBにジョインして苦労していること<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
 - ③SPSBにジョインする前にやってて良かったこと<!-- .element: class="text-black none-dot" style="font-size: 0.98em" -->
-- ④参画して1ヶ月で感じたこと<!-- .element: class="text-blue none-dot fw" style="font-size: 0.98em" -->
+- ④参画して1ヶ月で感じること<!-- .element: class="text-blue none-dot fw" style="font-size: 0.98em" -->
 
 ---
 
@@ -159,18 +159,18 @@
 ## フォローのありがたさ
 
 - なんでも質問できる環境
-  - ハドル、スレッド
+  - ハドル、スレッド、モブプロ
 - コンフルの資料も充実
 - コードにもコメントが書かれているので、理解の助けになる
 
 ---
 
-## 教訓とこれから
+## これから
 
-- サービスの仕様とその背景をまず理解するべし
+- サービスの仕様とその背景をまず理解する
   - 主要なページの作り、機能を読み解いていく
 
-- 技術的な理解を進めるべし
+- 技術的な理解を進める
   - Rの新卒研修をやりました（Next.js）
   - 同様のアーキテクチャで何か作ってみる予定
 
